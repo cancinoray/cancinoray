@@ -1,11 +1,13 @@
 # Hello, I'm Ray!
 
-From mechanical engineering graduate to junior web developer! Currently learning Vue as a framework and fascinated in cybersecurity, artificial intelligence, machine learning and data science.
+From a mechanical engineering graduate to a web developer! Currently learning Vue, React, and NextJS as a framework. Fascinated by cybersecurity, artificial intelligence, machine learning, and data science.
+
+When I'm not working, I read a lot of light novels and manga/manwha. Sometimes, I'll go to a coffee shop with my laptop to explore new technologies.
 
 
 ## 🌱 Currently Learning
-- [Technology 1]
-- [Technology 2]
+- [NextJS](https://nextjs.org/)
+- [ReactJS](https://react.dev/)
 
 
 ## 📫 How to Reach Me
