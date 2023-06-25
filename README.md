@@ -1,28 +1,17 @@
-# Hello, I'm [Your Name]!
+# Hello, I'm Ray!
 
-[Short description about yourself and what you do.]
+From mechanical engineering graduate to junior web developer! Currently learning Vue as a framework and fascinated in cybersecurity, artificial intelligence, machine learning and data science.
 
-## 🔭 Currently Working On
-- [Project 1]
-- [Project 2]
 
 ## 🌱 Currently Learning
 - [Technology 1]
 - [Technology 2]
 
-## 👯 Looking to Collaborate On
-- [Project or idea you're interested in collaborating on]
-
-## 💬 Ask Me About
-- [Topics you're knowledgeable about and willing to help with]
 
 ## 📫 How to Reach Me
-- [Website](https://your-website.com)
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-handle)
+- [Website](https://cancinoray.netlify.app)
+- [LinkedIn](https://www.linkedin.com/in/cancinoraymond/)
 
-## ⚡ Fun Fact
-- [Interesting or quirky fact about yourself]
 
 ## 📊 GitHub Stats
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=cancinoray&show_icons=true&theme=dark)](https://github.com/cancinoray)
