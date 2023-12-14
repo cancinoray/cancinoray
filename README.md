@@ -5,9 +5,10 @@ From a mechanical engineering graduate to a web developer! Currently learning Vu
 When I'm not working, I read a lot of light novels and manga/manwha. Sometimes, I'll go to a coffee shop with my laptop to explore new technologies.
 
 
-## 🌱 Currently Learning
+## 🌱 Current Stack
 - [NextJS](https://nextjs.org/)
 - [ReactJS](https://react.dev/)
+- [NodeJS](https://nodejs.org/en)
 
 
 ## 📫 How to Reach Me
