@@ -1,8 +1,14 @@
 # Hello, I'm Ray!
 
-From a mechanical engineering graduate to a web developer! Currently using Vue, React, and NextJS as a framework. Fascinated by cybersecurity, artificial intelligence, machine learning, and data science.
+Mechanical Engineer | Web Developer | Data Enthusiast
 
-When I'm not working, I read a lot of light novels and manga/manwha. Sometimes, I'll go to a coffee shop with my laptop to explore new technologies.
+Hi there! I’m a mechanical engineering graduate who ventured into web development and discovered a passion for data science along the way. For nearly two years, I’ve been building websites and applications using frameworks like Vue, React, and Next.js, making projects smoother and more efficient.
+
+These days, I’m diving deeper into data science, machine learning fundamentals and data engineering—learning how to build, evaluate, and deploy models, as well as discovering new ways to bring data insights into development. I love how data science combines engineering and analytics to solve real-world problems, and I’m excited about how these skills can enhance my work even more.
+
+Outside of coding, you’ll usually find me with a light novel, manga, or manhwa, or enjoying coffee shop vibes while exploring the latest in tech.
+
+Let’s connect if you're into data, development, or just want to chat about new tech trends!
 
 
 ## 🌱 Current Stack
@@ -14,7 +20,3 @@ When I'm not working, I read a lot of light novels and manga/manwha. Sometimes, 
 ## 📫 How to Reach Me
 - [Website](https://cancinoray.netlify.app)
 - [LinkedIn](https://www.linkedin.com/in/cancinoraymond/)
-
-
-## 📊 GitHub Stats
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=cancinoray&show_icons=true&theme=dark)](https://github.com/cancinoray)
